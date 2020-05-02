@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # panamatrips
 
 Proyecto dedicado a mostrar todo lo que tiene panama para mostrar.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# trips
+panama trips
+>>>>>>> d6945d4a3019d63dfdd8a14aa1082c6f591096eb
