@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233413459493",
+    "firebase_url": "https://panama-trips-66a13.firebaseio.com",
+    "project_id": "panama-trips-66a13",
+    "storage_bucket": "panama-trips-66a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233413459493:android:5eca6555ae12433daf89cc",
+        "android_client_info": {
+          "package_name": "com.victorflores.panamatrips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233413459493-ug2jp0utp8e8kobiljuj0fc2cj0ad9pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.victorflores.panamatrips",
+            "certificate_hash": "146f59ce672265d492dea1f51dfc12bc0ff2dfaa"
+          }
+        },
+        {
+          "client_id": "233413459493-ps8hnmlv9ahsm422u325ln2jhhifkheg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCepiGVG72uRcJRkcyswy7WzFfOloAzHog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233413459493-ps8hnmlv9ahsm422u325ln2jhhifkheg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

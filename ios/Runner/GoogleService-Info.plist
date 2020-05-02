@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>233413459493-h9g952ciqsp80mscou483t9q5do0lv66.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.233413459493-h9g952ciqsp80mscou483t9q5do0lv66</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>233413459493-ug2jp0utp8e8kobiljuj0fc2cj0ad9pb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCVRwcm0d53Zkoa3CNvB2JFBo9ebBqeZQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>233413459493</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.victorflores.panamatrips</string>
+	<key>PROJECT_ID</key>
+	<string>panama-trips-66a13</string>
+	<key>STORAGE_BUCKET</key>
+	<string>panama-trips-66a13.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:233413459493:ios:863a87e3001a8592af89cc</string>
+	<key>DATABASE_URL</key>
+	<string>https://panama-trips-66a13.firebaseio.com</string>
+</dict>
+</plist>
